@@ -44,7 +44,8 @@
 }
 
 .main-hero-bg_img{
-   float: right;
+    position: absolute;
+    right:0;
     z-index: -1;
 }
 
@@ -249,7 +250,6 @@
 
 .page-footer{
     background-color: #E8E8E8;
-    width: 1366px;
     margin: 0 auto;
 }
 
