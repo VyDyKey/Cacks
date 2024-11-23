@@ -1,0 +1,180 @@
+body{
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #2D2829;
+    background-color: #FBEBEA;
+}
+
+a{
+    color: #2D2829;
+    text-decoration: none;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+}
+
+/* _______________________________Header_____________________________ */
+
+.header-navigation-item a{
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.header-navigation-number{
+    font-size: 13px;
+    line-height: 16px;
+}
+
+/* _______________________________MAIN_____________________________ */
+
+.main-hero h1{
+    font-size: 78px;
+    line-height: 70px;
+    font-weight: bold;
+}
+
+.main-hero h2{
+    font-size: 40px;
+    line-height: 53px;
+    font-style: italic;
+}
+
+.main-hero-button{
+    width: 221px;
+    height: 51px;
+    background-color: #F50049;
+    border-radius: 25px;
+    border: 0px;
+    color: white;
+    font-size: 13px;
+    line-height: 27px;
+    font-weight: bold;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+}
+
+.main-hero-advantages{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.main-products h2{
+    font-size: 40px;
+    line-height: 66px;
+    font-weight: bold;
+}
+
+.main-products-item h3{
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: bold;
+}
+
+.products-item-quanitity{
+    margin: 0;
+    padding:0;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.main-products-item a{
+    margin: 0;
+    padding:0;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.main-reviews h2{
+    font-size: 40px;
+    line-height: 66px;
+    font-weight: bold;
+}
+
+.main-review-image{
+    border-radius: 50%;
+}
+
+.main-review-information h3{
+    font-size: 27px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.main-review-information-data{
+    font-size: 25px;
+    line-height: 33px;
+}
+
+.main-review-information-text{
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.main-advantages h2{
+    font-size: 40px;
+    line-height: 66px;
+    font-weight: bold;
+}
+
+.main-advantages h3{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.main-advantage h4{
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: bold;
+}
+
+.main-advantage p{
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.main-advantage-1-info-text{
+    text-align: center;
+}
+
+.main-contacts-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main-contacts-item h2{
+    font-size: 40px;
+    line-height: 66px;
+    font-weight: bold;
+}
+
+.main-contacts-item h3{
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: bold;
+}
+
+.main-contacts-item a, .main-contacts-item p{
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 400;
+}
+
+.footer-navigation-item a{
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 400;
+}
+
+.footer-copyright{
+    color: #888888;
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 400;
+}
