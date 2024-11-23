@@ -1,6 +1,7 @@
 .page-header{
-    width: 1366;
+    width: 1218px;
     padding: 60px 74px 0 74px;
+    margin: 0;
     margin: 0 auto;
     margin-bottom: 20px;
 }
@@ -43,6 +44,7 @@
 
 .page-main{
     width: 1366px;
+    margin: 0 auto;
 }
 
 .main-hero{
