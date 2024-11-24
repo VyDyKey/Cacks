@@ -45,7 +45,7 @@
 
 .main-hero-bg_img{
     position: absolute;
-    right:0;
+    right: 0;
     z-index: -1;
 }
 
@@ -250,13 +250,13 @@
 
 .page-footer{
     background-color: #E8E8E8;
-    margin: 0 auto;
 }
 
 .footer-navigation{
     display: flex;
     align-items: center;
     margin: 0 auto;
+    padding:0 74px ;
     padding-top: 45px;
     padding-bottom:50px ;
     width: 1218px;
@@ -275,4 +275,15 @@
     width: 87px;
     margin: 0 auto;
     padding: 17px 0;
+}
+
+@media (max-width:1366px) {
+    .page-footer{
+        position: absolute;
+    }
+
+    .main-hero-bg_img{
+        position: relative;
+        float: right;
+    }
 }
